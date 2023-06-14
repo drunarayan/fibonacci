@@ -1,0 +1,10 @@
+# first the turtle library is imported import turtle
+# the turtle (the pen) is linked to variable t
+t = turtle.Turtle () # the background color of tet turtle screen is set to color 'DeepSkyBlue' turtle.bgcolor (DeepSkyBlue)
+#when invoked it draws a snowflake def snowflake():     # - the turtle writes the color white (pencolor)     # - the turtle is set to speed 10, scale from 1 to 10 (speed)     t.pen (pencolor ="White", speed =10)     #this bit of code is repeated 8 times, because the snowflake has eight branches     for i in range (8):         #with each branch the turte is turned 45 degrees         t.left (45)         #the side branches of the snowflake are drawn         for i in range(3):             for i in range(3):                 t.forward (10)                 t.backward (10)                 t.right (45)             t.left (90)             t.backward (10)         t.left (45)     t.right (90)     t.forward (30)
+# when called, a ball is drawn def ball():     #the shape of the turlte is changed to the shape 'turtle'     t.shape ("Turtle")     # - the turtle writes the color black (pencolor)     # - the turtle's fill gets the color red (fillcolor)     # - the line is resized to 5 pixels (pensize)     # - the turtle is set to speed 5, scale from 1 to 10 (speed)     t.pen (pencolor ="Black", fillcolor ="Red", pensize =5, speed =5)     t.begin_fill ()     t.circle (50)     t.end_fill ()
+#def snowflake is drawn at location x = 200 y = 200 t.penup () t.goto (200,200) t.pendown () snowflake()
+#def snowflake is drawn at location x = 100 y = 300 t.penup () t.goto (100,300) t.pendown () snowflake()
+#def ball is drawn at location x = 10 y = -350 t.penup () t.goto (10,-350) t.pendown () ball()
+#the turtle returns to the home position (x = 0 y = 0) t.penup () t.home ()
+#the turtle gets a green fill t.pen (fillcolor ="Green") t.pendown ()

@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A MERCURY DISCHARGE TUBE mercury1207204034
+BDS parameters used for this run: mercury1207204034
+Spectrum Base Name is          	 mercury1207204034
+Camera Shutter is:             	 3000
+Slit Top Adjustment is:        	 0
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.03
+Camera Wavelength Factor is:   	 0.9835
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 30

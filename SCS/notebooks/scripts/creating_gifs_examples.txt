@@ -1,0 +1,19 @@
+Going via an avi is unnecessary. A -pix_fmt of rgb24 is invalid, and the -loop_output option prevents looping, which I don't want. We get:
+
+ffmpeg -f image2 -i image%d.jpg out.gif
+My input pictures are labeled with a zero-padded 3-digit number and I have 30 of them (image_001.jpg, image_002.jpg, ...), so I need to fix the format specifier
+
+ffmpeg -f image2 -i image_%003d.jpg out.gif
+My input pictures are from my phone camera, they are way too big! I need to scale them down.
+
+ffmpeg -f image2 -i image_%003d.jpg -vf scale=531x299 out.gif
+I also need to rotate them 90 degrees clockwise
+
+ffmpeg -f image2 -i image_%003d.jpg -vf scale=531x299,transpose=1 out.gif
+This gif will play with zero delay between frames, which is probably not what we want. Specify the framerate of the input images
+
+ffmpeg -f image2 -framerate 9 -i image_%003d.jpg -vf scale=531x299,transpose=1 out.gif
+The image is just a tad too big, so I'll crop out 100 pixels of sky. The transpose makes this tricky, I use the post-rotated x and y values:
+
+ffmpeg -f image2 -framerate 9 -i image_%003d.jpg -vf scale=531x299,transpose=1,crop=299,431,0,100 out.gif
+The final result - I get to share my mate's awesome facial expression with the world:

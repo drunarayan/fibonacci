@@ -1,0 +1,27 @@
+[I 09:14:05.183 NotebookApp] Serving notebooks from local directory: /home/pi/drupi/bds
+[I 09:14:05.183 NotebookApp] The Jupyter Notebook is running at:
+[I 09:14:05.184 NotebookApp] http://drupi:8888/?token=a9d49e48da56901d61bf739903477978fd8fd19c30ecc590
+[I 09:14:05.184 NotebookApp]  or http://127.0.0.1:8888/?token=a9d49e48da56901d61bf739903477978fd8fd19c30ecc590
+[I 09:14:05.184 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:14:05.194 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/pi/.local/share/jupyter/runtime/nbserver-1086-open.html
+    Or copy and paste one of these URLs:
+        http://drupi:8888/?token=a9d49e48da56901d61bf739903477978fd8fd19c30ecc590
+     or http://127.0.0.1:8888/?token=a9d49e48da56901d61bf739903477978fd8fd19c30ecc590
+[I 09:14:29.058 NotebookApp] Saving file at /bds_v6.ipynb
+[I 09:17:04.697 NotebookApp] Kernel started: 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf
+[I 09:17:08.915 NotebookApp] Adapting from protocol version 5.1 (kernel 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf) to 5.3 (client).
+[I 09:19:00.281 NotebookApp] Kernel interrupted: 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf
+[I 09:19:04.680 NotebookApp] Saving file at /bds_v6.ipynb
+[I 09:19:15.599 NotebookApp] Starting buffering for 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf:79cd5e6fc675458c8df2853a448baa4b
+[I 09:19:20.657 NotebookApp] Kernel restarted: 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf
+[I 09:19:23.656 NotebookApp] Adapting from protocol version 5.1 (kernel 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf) to 5.3 (client).
+[I 09:19:23.664 NotebookApp] Restoring connection for 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf:79cd5e6fc675458c8df2853a448baa4b
+[I 09:19:23.665 NotebookApp] Replaying 3 buffered messages
+[I 09:20:11.095 NotebookApp] Kernel interrupted: 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf
+[I 09:20:16.462 NotebookApp] Kernel interrupted: 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf
+[I 09:20:20.335 NotebookApp] Starting buffering for 99acfeee-a6d8-4d90-a2fb-63477d7e1bdf:79cd5e6fc675458c8df2853a448baa4b
+[I 09:21:08.659 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.

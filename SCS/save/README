@@ -1,0 +1,7 @@
+EDIT booy/config.txt to show the following
+# uncomment if hdmi display is not detected and composite is being output
+hdmi_force_hotplug=1
+
+# uncomment to force a specific HDMI mode (this will force VGA)
+hdmi_group=1
+hdmi_mode=4

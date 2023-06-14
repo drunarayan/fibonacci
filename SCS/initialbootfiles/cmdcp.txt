@@ -1,0 +1,3 @@
+scp jupyter_config.sh enable_jupyter_service.sh jupyter.service install_jupyterlabs.sh pi@rypi56_kov:/home/pi
+
+scp jupyter_config.sh enable_jupyter_service.sh jupyter.service install_jupyterlabs.sh pi@rypi55:/home/pi

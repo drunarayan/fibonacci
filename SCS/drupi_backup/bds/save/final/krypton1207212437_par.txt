@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A KRYPTON DISCHARGE TUBE krypton1207212437
+BDS parameters used for this run: krypton1207212437
+Spectrum Base Name is          	 krypton1207212437
+Camera Shutter is:             	 100000
+Slit Top Adjustment is:        	 40
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.03
+Camera Wavelength Factor is:   	 0.91
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 30

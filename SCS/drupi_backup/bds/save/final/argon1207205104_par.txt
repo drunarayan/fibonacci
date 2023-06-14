@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A ARGON DISCHARGE TUBE argon1207205104
+BDS parameters used for this run: argon1207205104
+Spectrum Base Name is          	 argon1207205104
+Camera Shutter is:             	 10000
+Slit Top Adjustment is:        	 0
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.03
+Camera Wavelength Factor is:   	 0.9835
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 30

@@ -1,0 +1,10 @@
+Title:		 OVERHEAD PSCS FLOURESCENT
+BDS parameters used for this run: Flourescent0202170643
+Spectrum Base Name is          	 Flourescent0202170643
+Camera Shutter is:             	 5000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.5
+Wavelength Threshold is:       	 35

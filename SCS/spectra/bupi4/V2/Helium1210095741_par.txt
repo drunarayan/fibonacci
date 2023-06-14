@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A HELIUM DISCHARGE TUBE
+BDS parameters used for this run: Helium1210095741
+Spectrum Base Name is          	 Helium1210095741
+Camera Shutter is:             	 10000
+Slit Top Adjustment is:        	 80
+Slit Bottom Adjustment is:     	 -80
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.99
+Amplitude Threshold is:        	 0.1
+Wavelength Threshold is:       	 10

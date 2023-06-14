@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A CLOUDY DAY
+BDS parameters used for this run: Daylight1215084018
+Spectrum Base Name is          	 Daylight1215084018
+Camera Shutter is:             	 5000000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.5
+Wavelength Threshold is:       	 35

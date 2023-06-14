@@ -1,0 +1,10 @@
+Title:		 SPECTRUM OF A INCANDESCENT LIGHT SOURCE
+BDS parameters used for this run: Incandescent1226132551
+Spectrum Base Name is          	 Incandescent1226132551
+Camera Shutter is:             	 8000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.5
+Wavelength Threshold is:       	 35

@@ -1,0 +1,10 @@
+Title:		 HYDROGEN_LAMP
+BDS parameters used for this run: hydrogen0723124719
+Spectrum Base Name is          	 hydrogen0723124719
+Camera Shutter is:             	 5000000
+Slit Top Adjustment is:        	 0
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 0.0
+Camera Wavelength Factor is:   	 0.93
+Amplitude Threshold is:        	 0.4
+Wavelength Threshold is:       	 10

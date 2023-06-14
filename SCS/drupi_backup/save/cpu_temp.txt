@@ -1,0 +1,2 @@
+Taking image /images/image0001.jpg at 2019-11-17 19:40:34.440541 with CPU Temp 48.7
+Taking image /images/image0002.jpg at 2019-11-17 19:40:40.013372 with CPU Temp 48.2

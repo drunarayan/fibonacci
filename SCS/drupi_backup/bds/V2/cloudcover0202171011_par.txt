@@ -1,0 +1,10 @@
+Title:		 DAYLIGHT CLOUD COVER
+BDS parameters used for this run: cloudcover0202171011
+Spectrum Base Name is          	 cloudcover0202171011
+Camera Shutter is:             	 50000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.5
+Wavelength Threshold is:       	 35

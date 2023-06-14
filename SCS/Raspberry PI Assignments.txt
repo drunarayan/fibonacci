@@ -1,0 +1,23 @@
+Raspberry PI Assignments
+
+Python for Measuring the Dia of the Sun & an Atom workshop
+Team 1:   http://rypi53.ddns.net:8888
+Team 2:   http://rypi54.ddns.net:8888
+
+Spectroscopy workshop
+Team 1:   http://bupi1.ddns.net:8888
+Team 2:   http://bupi2.ddns.net:8888
+Team 3:   http://bupi4.ddns.net:8888
+
+Breadboard Electronics and Stop Motion workshops:
+Team 1:   http://rypi50.ddns.net:8888
+Team 2:   http://rypi51.ddns.net:8888
+Team 3:   http://rypi52.ddns.net:8888
+
+Time Lapse photography workshop:
+Team 1:   http://rypi55.ddns.net:8888
+Team 2:   http://rypi56.ddns.net:8888
+
+Attachments you will need: 
+1.  rdslibv1.ipynb:   Python Notebook for Library Functions in Python
+2.  rdsprojv1.ipynb:  Python Notebook for workshops

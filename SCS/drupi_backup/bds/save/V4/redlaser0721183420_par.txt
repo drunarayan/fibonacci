@@ -1,0 +1,10 @@
+Title:		 DAYLIGHT_SPECTRUM
+BDS parameters used for this run: redlaser0721183420
+Spectrum Base Name is          	 redlaser0721183420
+Camera Shutter is:             	 1000
+Slit Top Adjustment is:        	 0
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 0.0
+Camera Wavelength Factor is:   	 0.85
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 20

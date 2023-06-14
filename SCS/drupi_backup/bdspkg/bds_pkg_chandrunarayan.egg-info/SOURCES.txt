@@ -1,0 +1,9 @@
+README.md
+setup.py
+bds_pkg/__init__.py
+bds_pkg/hellobds.py
+bds_pkg/measure_temp.py
+bds_pkg_chandrunarayan.egg-info/PKG-INFO
+bds_pkg_chandrunarayan.egg-info/SOURCES.txt
+bds_pkg_chandrunarayan.egg-info/dependency_links.txt
+bds_pkg_chandrunarayan.egg-info/top_level.txt

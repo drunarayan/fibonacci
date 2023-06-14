@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A FLOUORESCENT LIGHT SOURCE
+BDS parameters used for this run: Fluorescent1210090717
+Spectrum Base Name is          	 Fluorescent1210090717
+Camera Shutter is:             	 3000000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 25

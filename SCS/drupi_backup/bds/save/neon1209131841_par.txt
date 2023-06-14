@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A NEON DISCHARGE TUBE neon1209131841
+BDS parameters used for this run: neon1209131841
+Spectrum Base Name is          	 neon1209131841
+Camera Shutter is:             	 11000
+Slit Top Adjustment is:        	 100
+Slit Bottom Adjustment is:     	 -50
+Camera Spectrum Angle is:      	 -0.1
+Camera Wavelength Factor is:   	 0.9835
+Amplitude Threshold is:        	 0.1
+Wavelength Threshold is:       	 30

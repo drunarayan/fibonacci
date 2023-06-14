@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A HYDROGEN DISCHARGE TUBE
+BDS parameters used for this run: Hydrogen1208141329
+Spectrum Base Name is          	 Hydrogen1208141329
+Camera Shutter is:             	 8000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.91
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 25

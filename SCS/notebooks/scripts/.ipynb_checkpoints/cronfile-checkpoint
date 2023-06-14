@@ -1,0 +1,1 @@
+*/2 * * * * /usr/bin/python /home/pi/notebooks/scripts/singleimage.py

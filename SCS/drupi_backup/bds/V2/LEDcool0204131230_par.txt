@@ -1,0 +1,10 @@
+Title:		 COOL100 WATT E
+BDS parameters used for this run: LEDcool0204131230
+Spectrum Base Name is          	 LEDcool0204131230
+Camera Shutter is:             	 2500
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.5
+Wavelength Threshold is:       	 35

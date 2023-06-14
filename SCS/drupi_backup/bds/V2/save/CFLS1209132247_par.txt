@@ -1,0 +1,10 @@
+Title:		 SPECTRUM FROM A COMPACT FLUORESCENT LAMP
+BDS parameters used for this run: CFLS1209132247
+Spectrum Base Name is          	 CFLS1209132247
+Camera Shutter is:             	 10000
+Slit Top Adjustment is:        	 50
+Slit Bottom Adjustment is:     	 0
+Camera Spectrum Angle is:      	 -0.01
+Camera Wavelength Factor is:   	 0.98
+Amplitude Threshold is:        	 0.2
+Wavelength Threshold is:       	 25
