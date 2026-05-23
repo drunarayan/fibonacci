@@ -24,7 +24,7 @@ On the last day, learn Group Song about Nature. Prepare a demo for parents and q
 
 ### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0)
 
-### Jupyter Notebooks
+### Worksheets & Jupyter Notebooks
 
 Lab|Topic|Worksheet or Notebook|
 ---|---|---|
