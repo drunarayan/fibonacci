@@ -23,3 +23,17 @@ On the last day, learn Group Song about Nature. Prepare a demo for parents and q
 
 ### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0)
 
+### Jupyter Notebooks
+Lab#|Topic|Worksheet or Notebook|
+---|---|---|
+1.|Calculate Value of PI|[Worksheet](https://docs.google.com/document/d/1jWOBEf-mJuVTAEecn2nfoc0TmbRO6QaWwwWQcBJ1MSI/edit?tab=t.0)
+2.|Measure Diameter of the Earth|[Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Ffibonacci&branch=gh-pages&urlpath=lab%2Ftree%2Ffibonacci%2Fnotebooks%2Fdia_of_earth%2Feratosthenes_earth_circum.ipynb?reset){:target="_blank"})
+
+
+
+
+
+
+
+
+
