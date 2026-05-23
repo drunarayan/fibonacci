@@ -7,6 +7,7 @@ An introduction to Fibonacci Sequence, Golden Ratio Pascal's triangle and many o
 
 # Vigyan Karyashala - Science Workshop - Design - Build - Explore
 ## May 29 - May 31, 2026
+*site updated: 23/05/26*
 
 ![](vk_events.png)
 
@@ -26,8 +27,9 @@ On the last day, learn Group Song about Nature. Prepare a demo for parents and q
 ### Jupyter Notebooks
 Lab#|Topic|Worksheet or Notebook|
 ---|---|---|
-1.|Calculate Value of PI|[Worksheet](https://docs.google.com/document/d/1jWOBEf-mJuVTAEecn2nfoc0TmbRO6QaWwwWQcBJ1MSI/edit?tab=t.0)
-2.|Measure Diameter of the Earth|[Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Ffibonacci&branch=gh-pages&urlpath=lab%2Ftree%2Ffibonacci%2Fnotebooks%2Fdia_of_earth%2Feratosthenes_earth_circum.ipynb?reset){:target="_blank"})
+1.|Factors, Ratios, Cross Multiplication|[Worksheet](https://docs.google.com/document/d/1qPb-s2bMtGL6yc2ziV_uqj609CENljCmQe5pdh1RHvA/edit?tab=t.0){:target="_blank"}
+2.|Calculate Value of PI|[Worksheet](https://docs.google.com/document/d/1jWOBEf-mJuVTAEecn2nfoc0TmbRO6QaWwwWQcBJ1MSI/edit?tab=t.0){:target="_blank"}
+3.|Measure Diameter of the Earth|[Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Ffibonacci&branch=gh-pages&urlpath=lab%2Ftree%2Ffibonacci%2Fnotebooks%2Fdia_of_earth%2Feratosthenes_earth_circum.ipynb?reset){:target="_blank"}
 
 
 
