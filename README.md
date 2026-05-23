@@ -19,6 +19,7 @@ Build and experiment with the Galton Board, Pascal’s Triangle, Fibonacci Numbe
 On the last day, learn Group Song about Nature. Prepare a demo for parents and quiz questions. Stump the Parents Quiz later that evening!
 
 
-### [Vigyan Karyashala Schedule of events](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
+### [Vigyan Karyashala (VK) Schedule of events](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
 
+### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0)
 
