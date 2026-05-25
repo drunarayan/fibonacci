@@ -7,7 +7,7 @@ An introduction to Fibonacci Sequence, Golden Ratio Pascal's triangle and many o
 
 # Vigyan Karyashala - Science Workshop - Design - Build - Explore
 ## May 29 - May 31, 2026
-*site updated: 23/05/26*
+*site updated: 25/05/26*
 
 ![](vk_events.png)
 
@@ -20,15 +20,24 @@ Build and experiment with the Galton Board, Pascal’s Triangle, Fibonacci Numbe
 On the last day, learn Group Song about Nature. Prepare a demo for parents and quiz questions. Stump the Parents Quiz later that evening!
 
 
-### [Vigyan Karyashala (VK) Schedule of events](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
+### [Vigyan Karyashala (VK) Events](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
 
 ### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0)
 
 ### Worksheets & Jupyter Notebooks
+*Order & dates are subject to last minute changes*
 
-Lab|Topic|Worksheet or Notebook|
----|---|---|
-1.|Factors, Ratios, Cross Multiplication|[Worksheet](https://docs.google.com/document/d/1qPb-s2bMtGL6yc2ziV_uqj609CENljCmQe5pdh1RHvA/edit?tab=t.0){:target="_blank"}
-2.|Calculate Value of PI|[Worksheet](https://docs.google.com/document/d/1jWOBEf-mJuVTAEecn2nfoc0TmbRO6QaWwwWQcBJ1MSI/edit?tab=t.0){:target="_blank"}
-3.|Measure Diameter of the Earth|[Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Ffibonacci&branch=gh-pages&urlpath=lab%2Ftree%2Ffibonacci%2Fnotebooks%2Fdia_of_earth%2Feratosthenes_earth_circum.ipynb?reset){:target="_blank"}
+Lab|Date|Topic|Worksheet or Notebook|
+---|---|---|---|
+1.|May 29|Astro Imaging|[Click for Details](notebooks/astro_imaging/){:target="_blank"}
+2.|May 29|Calculate Value of PI|[Click for Details](notebooks/calculate_pi/){:target="_blank"}
+3.|May 29|Measure Diameter of the Earth|[Click for Details](notebooks/dia_of_earth/){:target="_blank"}
+4.|May 30|Build Paper Airplanes|[Click for Details](notebooks/paper_airplanes/){:target="_blank"}
+5.|May 30|Measure Diameter of the Sun|[Click for Details](notebooks/dia_of_sun/){:target="_blank"}
+6.|May 30|Pascal's Triangle - Galton Board|[Click for Details](notebooks/galton_board/){:target="_blank"}
+7.|May 30|Operate the SeeStar Telescope|[Click for Details](notebooks/seestar_telescope/){:target="_blank"}
+8.|May 30|Build Spectroscope|[Click for Details](notebooks/build_spectroscope/){:target="_blank"}
+9.|May 30|Measure Diameters of Imaged Astro Objects|[Click for Details](notebooks/measure_astro_objects/){:target="_blank"}
+10.|May 31|What a Wonderful World - Team Song|[Click for Details](notebooks/team_song/){:target="_blank"}
+11.|May 31|Final EXPO - Stump the Parents Quiz|[Click for Details](notebooks/stump_the_parents/){:target="_blank"}
 
