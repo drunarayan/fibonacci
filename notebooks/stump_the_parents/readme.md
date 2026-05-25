@@ -1,4 +1,7 @@
-## Astro Imaging using Global Telescopes
+## Vigyan Karyashala Final Expo - Stump the Parents Quiz
 
-Students will learn to image astronomical targets such as Stars, Galaxies and Nebulae, Star Clusters etc. using the global telescopes of Las Cumbres Observatory in the Southern hemisphere as well as San Diego in the USA.
+Students will demonstrate the results and learning from the Science Camp to the assembled Parents. They will conduct a quiz for the Parents where the adults will be tested about their knowledge of our planet and universe!
+
+### More details to follow ...
+
 
