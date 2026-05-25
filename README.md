@@ -37,7 +37,7 @@ Lab|Date|Topic|Worksheet or Notebook|
 6.|May 30|Pascal's Triangle - Galton Board|[Click for Details](notebooks/galton_board/){:target="_blank"}
 7.|May 30|Operate the SeeStar Telescope|[Click for Details](notebooks/seestar_telescope/){:target="_blank"}
 8.|May 30|Build Spectroscope|[Click for Details](notebooks/build_spectroscope/){:target="_blank"}
-9.|May 30|Measure Diameters of Imaged Astro Objects|[Click for Details](notebooks/measure_astro_objects/){:target="_blank"}
+9.|May 30|Measure Diameters of Imaged Astro Objects|[Click for Details](notebooks/measure_astro_targets/){:target="_blank"}
 10.|May 31|What a Wonderful World - Team Song|[Click for Details](notebooks/team_song/){:target="_blank"}
 11.|May 31|Final EXPO - Stump the Parents Quiz|[Click for Details](notebooks/stump_the_parents/){:target="_blank"}
 
