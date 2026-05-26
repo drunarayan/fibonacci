@@ -14,4 +14,6 @@ All the information you will need for this Karyashala is available at the websit
 
 #### [Vigyan Karyashala - Chennai 2026 Website](https://drunarayan.github.io/fibonacci/)
 
+My utmost and sincere grattitude to members of the Ramanarayan Family that made this all possible, especially my nieces and nephews who I hold so dear.
+
 Kindly, Chandru
