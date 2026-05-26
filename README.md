@@ -7,7 +7,7 @@ An introduction to Fibonacci Sequence, Golden Ratio Pascal's triangle and many o
 
 # Vigyan Karyashala - Science Workshop - Design - Build - Explore
 ### May 29 - May 31, 2026
-*site updated: 26/05/26*
+*site updated: 26/05/26*. contact chandru drunarayan@gmail.com with any questions
 
 ![](vk_events.png)
 
@@ -19,14 +19,20 @@ Build and experiment with the Galton Board, Pascal’s Triangle, Fibonacci Numbe
 
 On the last day, learn Group Song about Nature. Prepare a demo for parents and quiz questions. Stump the Parents Quiz later that evening!
 
-### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0)
+### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0){:target="_blank"}
+- Items needed for workshop. Volunteer any help you can offer.
 
-### [Vigyan Karyashala (VK) Activities](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
+### [Vigyan Karyashala (VK) Activities](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p){:target="_blank"}
+- Activities, Content Slide Deck
 
-### [See Student & Adult Particpants here - Please provide additional information as requested](https://docs.google.com/spreadsheets/d/1BOI-sNqJvsq9w2gmftGgKQnU3YKGqPfE_oHhZqn_418/edit?gid=0#gid=0)
+### [Student & Parent Participants with Username for Login](https://docs.google.com/spreadsheets/d/1BOI-sNqJvsq9w2gmftGgKQnU3YKGqPfE_oHhZqn_418/edit?gid=0#gid=0){:target="_blank"}
+- Please note that you can type in your own password that you like. However, please remember for future logins. So, write it down! If you forget, I can reset it for you
+- If your name is not on the list of if you have any questions write chandru: drunarayan@gmail.com
 
 ### Program Schedule, Worksheets & Jupyter Notebooks
-*Order & dates are subject to last minute changes*
+- Order & dates are subject to last minute changes
+- Details link will lead you to a website or virtual machine where a login might be required.
+- For login details, please see above
 
 Lab|Date|Topic|Worksheet or Notebook|
 ---|---|---|---|
