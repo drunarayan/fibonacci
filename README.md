@@ -21,12 +21,11 @@ On the last day, learn Group Song about Nature. Prepare a demo for parents and q
 
 ### [Materials List for Procurement and Tasks for VK](https://docs.google.com/spreadsheets/d/1PN_e4nNGfixofIVVZubWGYc2y2JYExBu2yFek9_L5VE/edit?gid=0#gid=0)
 
-### [Vigyan Karyashala (VK) Events](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
-
+### [Vigyan Karyashala (VK) Activities](https://docs.google.com/presentation/d/1L8q5FArEkUWsPNfDLy3HekTYAK-xyk0GFg3iHbKeEBk/edit?slide=id.p#slide=id.p)
 
 ### [See Student & Adult Particpants here - Please provide additional information as requested](https://docs.google.com/spreadsheets/d/1BOI-sNqJvsq9w2gmftGgKQnU3YKGqPfE_oHhZqn_418/edit?gid=0#gid=0)
 
-### Worksheets & Jupyter Notebooks
+### Program Schedule, Worksheets & Jupyter Notebooks
 *Order & dates are subject to last minute changes*
 
 Lab|Date|Topic|Worksheet or Notebook|
