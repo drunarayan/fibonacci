@@ -9,6 +9,8 @@ An introduction to Fibonacci Sequence, Golden Ratio Pascal's triangle and many o
 ### May 29 - May 31, 2026
 *site updated: 26/05/26*. contact chandru drunarayan@gmail.com with any questions
 
+### [Participants Welcome Letter](welcome_letter.md){:target="_blank"}
+
 ![](vk_events.png)
 
 Parents - Join with your children for this unique science camp for the Ramanarayanan family and friends. These are topics your children will explore. At the end of the camp, students will stump the assembled parents in a quiz program.
