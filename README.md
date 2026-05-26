@@ -7,7 +7,7 @@ An introduction to Fibonacci Sequence, Golden Ratio Pascal's triangle and many o
 
 # Vigyan Karyashala - Science Workshop - Design - Build - Explore
 ### May 29 - May 31, 2026
-*site updated: 25/05/26*
+*site updated: 26/05/26*
 
 ![](vk_events.png)
 
