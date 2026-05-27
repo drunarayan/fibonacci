@@ -14,6 +14,12 @@ All the information you will need for this Karyashala is available at the websit
 
 #### [Vigyan Karyashala - Chennai 2026 Website](https://drunarayan.github.io/fibonacci/)
 
+**PLEASE RSVP WITH STUDENT PARAGRAPH RESPONSE**
+
+````Please take 15 minutes to look at the website above with your students. Please have them type (or write in a notebook by their own hand that you can take a picture and send it) about what they are looking forward to the most from this camp? - overnight sleepover, games, any of the science topics, team song, being with other kids they do not know, science, nature, astronomy - anything they can respond with - more than just one line please ...````
+
+I will see you all personally at the start between 10-11:00 AM on Fri May 29th. 
+
 My utmost and sincere grattitude to members of the Ramanarayan Family that made this all possible, especially my nieces and nephews who I hold so dear.
 
 Kindly, Chandru
