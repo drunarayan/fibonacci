@@ -39,6 +39,7 @@ On the last day, learn Group Song about Nature. Prepare a demo for parents and q
 Lab|Date|Topic|Worksheet or Notebook|
 ---|---|---|---|
 1.|Fri May 29|Astro Imaging|[Click for Details](notebooks/astro_imaging/){:target="_blank"}
+
 2.|Fri May 29|Calculate Value of PI|[Click for Details](notebooks/calculate_pi/){:target="_blank"}
 3.|Fri May 29|Measure Diameter of the Earth|[Click for Details](notebooks/dia_of_earth/){:target="_blank"}
 4.|Sat May 30|Build Paper Airplanes|[Click for Details](notebooks/paper_airplanes/){:target="_blank"}
