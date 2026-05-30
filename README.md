@@ -42,8 +42,8 @@ Lab|Date|Topic|Worksheet or Notebook|
 2.|Fri May 29|Astro Imaging|[Click for Details](notebooks/astro_imaging/){:target="_blank"}
 3.|Fri May 29|Calculate Value of PI|[Click for Details](notebooks/calculate_pi/){:target="_blank"}
 4.|Fri May 29|Measure Diameter of the Earth|[Click for Details](notebooks/dia_of_earth/){:target="_blank"}
-5.|Sat May 30 8:00 AM|Krishna & Aashna Talk to Students about Best Habits for Success in Careers in Eng & Tech & Finance. Kripita Srivatsava (9th grader from New Delhi) will talk about her educational journey in astro-physics|[Google Meet](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}
-6.|Sat May 30|Mobius Strip & Topology|[Click for Details](https://www.youtube.com/watch?v=2CDGxGYk4Sc){:target="_blank"}
+5.|Sat May 30|Mobius Strip & Topology|[Click for Details](https://www.youtube.com/watch?v=2CDGxGYk4Sc){:target="_blank"}
+6.|Sat May 30 8:00 AM|Krishna & Aashna Talk to Students about Best Habits for Success in Careers in Eng & Tech & Finance. Kripita Srivatsava (9th grader from New Delhi) will talk about her educational journey in astro-physics|[Google Meet](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}
 7.|Sat May 30|Build Paper Airplanes|[Click for Details](notebooks/paper_airplanes/){:target="_blank"}
 8.|Sat May 30|Measure Diameter of the Sun|[Click for Details](notebooks/dia_of_sun/){:target="_blank"}
 9.|Sat May 30|Pascal's Triangle - Galton Board|[Click for Details](notebooks/galton_board/){:target="_blank"}
