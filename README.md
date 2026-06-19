@@ -53,4 +53,5 @@ Lab|Date|Topic|Worksheet or Notebook|
 13.|Sun May 31|What a Wonderful World - Team Song|[Click for Details](notebooks/team_song/){:target="_blank"}
 14.|Sun May 31|Prepare Quiz Questions for Stump the Parents - Decide on Rules|[Click for Details](notebooks/team_song/){:target="_blank"}
 15.|Sun May 31|Final EXPO - Stump the Parents Quiz|[Click for Details](notebooks/stump_the_parents/){:target="_blank"}
+16.|Fri Jun 19|The Meenakshi School Launch - Measure Dia of Atom Lab|[Click for Details](notebooks/dia_of_atom/){:target="_blank"}
 
